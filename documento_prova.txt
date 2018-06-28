@@ -7,3 +7,5 @@ conflito feature commit 2
 conflito
 
 commit na realease
+
+commit hotflix
