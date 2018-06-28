@@ -1,0 +1,9 @@
+conteudo master
+
+commit feature 1
+
+
+conflito feature commit 2
+conflito
+
+commit na realease
